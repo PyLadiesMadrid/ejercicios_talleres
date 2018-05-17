@@ -21,7 +21,7 @@
 
 ## Diapositivas:
 
-[Aquí](https://nbviewer.jupyter.org/github/PyLadiesMadrid/talleres_pyladies_madrid/blob/master/taller_003/slides_003.ipynb)
+[Aquí](https://nbviewer.jupyter.org/github/PyLadiesMadrid/taller_003_practica/blob/master/slides_003.ipynb)
 
 
 ## Convocatorias:
